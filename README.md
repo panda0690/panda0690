@@ -19,38 +19,32 @@
 
 ## About me
 
-I build reliable software from the logic behind the scenes to the experience people interact with. My main interests are backend development, game and server scripting, databases, automation, and modern web interfaces.
+> **I turn rough ideas into systems people can actually use.**
 
-I like turning ideas into practical products—with clean code, thoughtful architecture, and performance that holds up as a project grows.
-
-- Building scalable APIs, services, and game systems
-- Creating responsive interfaces that feel simple to use
-- Learning more about system design, cloud architecture, and performance
-
-## What I work on
+I’m a developer who enjoys working across the whole build—from designing the backend and data flow to shaping the interface people see. I’m especially drawn to projects where performance, reliability, and a good user experience need to work together.
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>Backend & systems</h3>
-      Designing APIs, services, databases, and automation with an emphasis on maintainability, performance, and reliability.
+    <td width="33%" valign="top">
+      <h3>01 · Build</h3>
+      APIs, game systems, automation, and interfaces that solve real problems.
     </td>
-    <td width="50%" valign="top">
-      <h3>Game & server scripting</h3>
-      Building responsive gameplay systems, server logic, and scripts that are efficient under real-world usage.
+    <td width="33%" valign="top">
+      <h3>02 · Think</h3>
+      Clear architecture, maintainable code, and details that make products feel finished.
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Frontend experiences</h3>
-      Creating clean, reactive interfaces that make complex functionality feel simple and intuitive.
-    </td>
-    <td width="50%" valign="top">
-      <h3>Cloud & automation</h3>
-      Exploring dependable deployment workflows, containers, cloud infrastructure, and developer tooling.
+    <td width="33%" valign="top">
+      <h3>03 · Grow</h3>
+      Exploring system design, cloud architecture, and better ways to ship.
     </td>
   </tr>
 </table>
+
+<div align="center">
+
+`BACKEND` &nbsp;·&nbsp; `GAME SYSTEMS` &nbsp;·&nbsp; `REACTIVE UI` &nbsp;·&nbsp; `AUTOMATION`
+
+</div>
 
 ## Tech stack
 
