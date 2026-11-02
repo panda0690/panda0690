@@ -91,13 +91,20 @@ I’m a developer who enjoys working across the whole build—from designing the
 
 <div align="center">
 
-<a href="https://github.com/panda0690/MH-code">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=panda0690&repo=MH-code&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD" alt="MH-code repository" />
-</a>
+<table>
+  <tr>
+    <td align="center" width="25%"><h1>🧩</h1></td>
+    <td width="75%"><h3><a href="https://github.com/panda0690/MH-code">MH-code</a></h3>One of my featured builds—check out the repository, explore the code, and see what’s being improved next.</td>
+  </tr>
+</table>
+
+<img src="https://img.shields.io/github/last-commit/panda0690/MH-code?style=for-the-badge&color=7C3AED&label=LAST%20UPDATE" />
+<img src="https://img.shields.io/github/stars/panda0690/MH-code?style=for-the-badge&color=DB2777&label=STARS" />
+<img src="https://img.shields.io/github/forks/panda0690/MH-code?style=for-the-badge&color=0891B2&label=FORKS" />
 
 <br />
 
-<a href="https://github.com/panda0690/MH-code"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-MH--code-7C3AED?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/panda0690/MH-code"><img src="https://img.shields.io/badge/🚀%20EXPLORE%20PROJECT-MH--code-7C3AED?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
@@ -105,8 +112,9 @@ I’m a developer who enjoys working across the whole build—from designing the
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=panda0690&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0B1120&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD" alt="Panda's GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=panda0690&layout=compact&hide_border=true&bg_color=0B1120&title_color=A78BFA&text_color=C4B5FD" alt="Panda's top languages" />
+<img src="https://img.shields.io/github/followers/panda0690?style=for-the-badge&color=7C3AED&label=FOLLOWERS" />
+<img src="https://img.shields.io/github/public-repos/panda0690?style=for-the-badge&color=DB2777&label=PUBLIC%20REPOS" />
+<img src="https://img.shields.io/github/commit-activity/y/panda0690?style=for-the-badge&color=0891B2&label=COMMITS%20THIS%20YEAR" />
 
 <br /><br />
 
