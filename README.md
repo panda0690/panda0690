@@ -1,73 +1,37 @@
 <div align="center">
 
-# 👋 Hey, I'm Panda
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6D28D9,100:A855F7&height=220&section=header&text=PANDA&fontSize=72&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20SYSTEMS%20%7C%20GAME%20SCRIPTING&descAlignY=60&descSize=16&descColor=D8B4FE" width="100%" />
 
-### Full-Stack Developer · Backend Systems · Game Scripting
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=700&color=C084FC&center=true&vCenter=true&width=700&lines=I+build+systems+that+scale.;I+turn+ideas+into+working+products.;Backend+%7C+Game+Scripting+%7C+Cloud;Code+with+purpose.+Ship+with+impact." />
 
-<p>
-  I build scalable backend systems, interactive web experiences, and
-  optimized game scripts with a strong focus on clean architecture and performance.
-</p>
+<br />
 
-<p>
-  <a href="https://github.com/panda0690">
-    <img src="https://img.shields.io/badge/GitHub-panda0690-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-6366F1?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<a href="https://github.com/panda0690">
+  <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+</a>
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/CONTACT-A855F7?style=for-the-badge&logo=gmail&logoColor=FFFFFF" />
+</a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Building+scalable+backend+systems;Crafting+clean+and+reactive+UI;Writing+optimized+game+scripts;Automating+cloud+and+DevOps+workflows" />
+<br /><br />
+
+<img src="https://komarev.com/ghpvc/?username=panda0690&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS" />
 
 </div>
 
 ---
 
-## 🧠 About Me
+## `> whoami`
 
-- 💻 Full-stack developer focused on reliable and scalable applications
-- ⚙️ Interested in backend architecture, APIs, databases, and microservices
-- 🎮 Passionate about game engine scripting and custom gameplay systems
-- 🚀 Building reactive interfaces with a focus on usability and performance
-- ☁️ Exploring cloud deployments, containerization, and automation
-- 🧩 I enjoy turning complex ideas into clean, maintainable systems
-
----
-
-## 🛠️ Technology Stack
-
-### Languages & Scripting
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,lua,bash,c" />
-</p>
-
-### Frontend & UI
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" />
-</p>
-
-### Backend & Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres" />
-</p>
-
-### Cloud, Tools & DevOps
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,vscode,postman" />
-</p>
-
----
-
-## 🎯 Current Focus
-
-```text
-▸ Designing scalable backend architectures
-▸ Building optimized APIs and database systems
-▸ Creating clean, responsive, reactive user interfaces
-▸ Developing custom game scripts and gameplay systems
-▸ Improving deployment and automation workflows
+```ts
+const panda = {
+  role: "Full-Stack Developer",
+  specializesIn: [
+    "Backend Architecture",
+    "Game & Server Scripting",
+    "Reactive Web Interfaces",
+    "Cloud Automation"
+  ],
+  mindset: "Build it clean. Make it fast. Keep it scalable.",
+  currentlyBuilding: "Powerful systems with a great user experience"
+};
