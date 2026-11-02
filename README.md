@@ -19,16 +19,13 @@
 
 ## About me
 
-I’m a full-stack developer who enjoys building software that is fast, reliable, and genuinely useful. My work sits at the intersection of backend architecture, game systems, databases, automation, and polished user experiences.
+I build reliable software from the logic behind the scenes to the experience people interact with. My main interests are backend development, game and server scripting, databases, automation, and modern web interfaces.
 
-```ts
-const panda = {
-  role: "Full-Stack Developer",
-  focus: ["Backend Architecture", "Game & Server Scripting", "Reactive UIs"],
-  principles: ["Keep it clean", "Make it fast", "Design for scale"],
-  currentlyBuilding: "Practical systems with a great user experience"
-};
-```
+I like turning ideas into practical products—with clean code, thoughtful architecture, and performance that holds up as a project grows.
+
+- Building scalable APIs, services, and game systems
+- Creating responsive interfaces that feel simple to use
+- Learning more about system design, cloud architecture, and performance
 
 ## What I work on
 
