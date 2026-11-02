@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0618,35:26104F,70:6D28D9,100:C026D3&height=210&section=header&text=PANDA&fontSize=68&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20SYSTEMS%20%7C%20GAME%20SCRIPTING&descAlignY=62&descSize=14&descColor:F5D0FE" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0618,35:26104F,70:6D28D9,100:C026D3&height=210&section=header&text=PANDA&fontSize=68&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20FULL-STACK%20ENGINEER%20%7C%20SYSTEMS&descAlignY=62&descSize=14&descColor:F5D0FE" width="100%" />
 
 <a href="https://github.com/panda0690"><img src="https://img.shields.io/badge/GitHub-panda0690-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://github.com/panda0690?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-7C3AED?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -21,7 +21,7 @@
 
 > **I turn rough ideas into systems people can actually use.**
 
-I’m a developer who enjoys working across the whole build—from designing the backend and data flow to shaping the interface people see. I’m especially drawn to projects where performance, reliability, and a good user experience need to work together.
+I’m a software developer and full-stack engineer who enjoys working across the whole build—from designing the backend and data flow to shaping the interface people see. I’m especially drawn to projects where performance, reliability, and a good user experience need to work together.
 
 <table>
   <tr>
