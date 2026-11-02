@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:312E81,100:7C3AED&height=210&section=header&text=PANDA&fontSize=68&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20SYSTEMS%20%7C%20GAME%20SCRIPTING&descAlignY=62&descSize=14&descColor=DDD6FE" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0618,35:26104F,70:6D28D9,100:C026D3&height=210&section=header&text=PANDA&fontSize=68&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20SYSTEMS%20%7C%20GAME%20SCRIPTING&descAlignY=62&descSize=14&descColor:F5D0FE" width="100%" />
 
 <a href="https://github.com/panda0690"><img src="https://img.shields.io/badge/GitHub-panda0690-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://github.com/panda0690?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-7C3AED?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -128,6 +128,6 @@ I’m a developer who enjoys working across the whole build—from designing the
 
 <i>Stay curious. Keep building. Break limits.</i>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:312E81,100:0B1120&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C026D3,35:6D28D9,70:26104F,100:0B0618&height=140&section=footer" width="100%" />
 
 </div>
